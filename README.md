@@ -1,2 +1,1 @@
-# AJAX_API
-Get the fact of any number using an open source numbers API available on any search engine.
+An open source API for number facts is avaialble on server through which the GET request is sent to extract the information regarding a particular input.
